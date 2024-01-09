@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "5e187054d7d5329e",
+            "id": "7cceeb717f20bc08",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -142,16 +142,17 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "bba45b45e3007057",
   "lastOpenFiles": [
-    "模型篇/协同过滤.md",
-    "模型篇/双塔模型.md",
-    "模型篇/GBDT+LR.md",
     "指标篇/覆盖率.md",
+    "模型篇/GBDT+LR.md",
+    "模型篇/双塔模型.md",
     "README.md",
+    "模型篇/协同过滤.md",
     "LICENSE",
     "模型篇/论文/cikm2013_DSSM_fullversion.pdf",
     "模型篇/论文/未确认 339510.crdownload",

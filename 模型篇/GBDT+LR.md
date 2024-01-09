@@ -2,7 +2,7 @@
 
 GBDT (Gradient Boost Decision Tree)基于集成学习中的boosting思想，每次迭代都通过生成一颗回归树来拟合残差。以此减少误差。逻辑回归 (Logistic Regression)性能很高，但其效果依赖于特征工程。因此Facebook在2004年提出，通过GBDT自动发现并构造特征，LR对特征加权来提升广告点击率 (CTR)效果。
 在GBDT+LR模型中，输入的样本特征最终会通过每一棵回归树落在某一个叶子节点，将该叶子节点记作1，其他叶子节点记作0，将所有树的编码拼接起来，得到了一组新的转换特征（其中1的数量为回归树的数量）。将这组新的转换特征输入LR模型，完成CTR预估。
-![](GBDT+LR.png)
+![](assets/GBDT+LR.png)
 ***
 # GBDT
 GBDT 的全称是 Gradient Boosting Decision Tree，梯度提升树。
