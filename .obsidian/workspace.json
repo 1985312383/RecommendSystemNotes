@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "b48546f126baf845",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb116b9daf03b711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bba45b45e3007057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dcd9d3f9d0a08dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef60ed376cd1a7f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e8789eac7c23d1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37326895c774ca49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ee33d6fb03f70a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed5b236693696986",
+    "type": "split",
+    "children": [
+      {
+        "id": "76202cf4d38c7e73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67b5f29f2cebd81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09c7dbf836d760ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "个人推荐算法笔记/模型篇/GBDT+LR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "483cbdd59a71a571",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e187054d7d5329e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bba45b45e3007057",
+  "lastOpenFiles": [
+    "模型篇/协同过滤.md",
+    "模型篇/双塔模型.md",
+    "模型篇/GBDT+LR.md",
+    "指标篇/覆盖率.md",
+    "README.md",
+    "LICENSE",
+    "模型篇/论文/cikm2013_DSSM_fullversion.pdf",
+    "模型篇/论文/未确认 339510.crdownload",
+    "模型篇/论文",
+    "模型篇/assets/双塔模型.png",
+    "个人推荐算法笔记/模型篇/GBDT+LR.md",
+    "个人推荐算法笔记/指标篇/覆盖率.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/assets/image-20211116205909-kuyx707.png",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/Contrastive Self-supervised Sequential Recommendation with Robust Augmentation.excalidraw.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/对比学习视角-重新审视推荐系统的召回粗排模型.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/腾讯CTR建模过程中的实践总结.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/在线优化算法FTRL的原理与实现.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/📔Index By 关键技术.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/一文梳理Approximate Softmax-从公式到代码.md",
+    "个人推荐算法笔记/指标篇",
+    "石塔西的搜广推笔记（论文阅读合集）/附件/模板/bold color text.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/📓Index By 链路环节.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/Deep Interest Network for Click-Through Rate Prediction.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/U-BERT-Pre-training User Representations for Improved Recommendation.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/冷启动推荐模型DropoutNet深度解析与改进.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/Softmax负采样精讲.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/AutoFIS-Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/屠龙少年与龙-漫谈深度学习驱动的广告推荐技术发展周期.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/快手视频冷启动优化介绍.md",
+    "obsidian-note",
+    "个人推荐笔记/模型篇/未命名.canvas",
+    "个人推荐算法笔记/模型篇/assets/GBDT+LR.png",
+    "Pasted image 20240105233331.png.md",
+    "个人推荐笔记/模型篇/assets/Pasted image 20240105232245.png",
+    "个人推荐笔记/模型篇/assets/Pasted image 20240105233331.png",
+    "Pasted image 20240105230746.png",
+    "个人推荐笔记/模型篇/assets/Pasted image 20240105233320.png",
+    "个人推荐笔记/模型篇/assets/Pasted image 20240105233316.png",
+    "个人推荐算法笔记/模型篇/assets",
+    "Reco/多场景推荐.md",
+    "个人推荐算法笔记/模型篇",
+    "未命名",
+    "未命名.md",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/Personalized Transfer of User Preferences for Cross-domain Recommendation.md",
+    "Reco",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/assets/Pasted Image 20230516200804_279.png",
+    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/assets/Pasted Image 20230516200421_922.png",
+    "未命名.canvas"
+  ]
+}
