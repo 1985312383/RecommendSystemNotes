@@ -1,9 +1,9 @@
 {
-  "folder": "附件/Excalidraw",
+  "folder": "Sketch/Excalidraw",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "附件/Excalidraw/Template.excalidraw",
-  "scriptFolderPath": "附件/Excalidraw/Scripts",
-  "compress": false,
+  "templateFilePath": "Sketch/Excalidraw/Template.excalidraw",
+  "scriptFolderPath": "Sketch/Excalidraw/Scripts",
+  "compress": true,
   "autosave": true,
   "autosaveInterval": 15000,
   "autosaveIntervalDesktop": 15000,
@@ -65,7 +65,7 @@
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
   "experimentalEnableFourthFont": true,
-  "experimantalFourthFont": "附件/Fonts/LXGWWenKai-Regular.ttf",
+  "experimantalFourthFont": "Sketch/Excalidraw/Muyao-Softbrush-2.ttf",
   "fieldSuggester": true,
   "compatibilityMode": false,
   "drawingOpenCount": 0,
@@ -73,7 +73,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.14",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.17",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -3042,7 +3042,7 @@
   "imageElementNotice": true,
   "mdSVGwidth": 500,
   "mdSVGmaxHeight": 800,
-  "mdFont": "Virgil",
+  "mdFont": "Muyao-Softbrush-2",
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
@@ -3068,7 +3068,7 @@
     }
   },
   "defaultTrayMode": false,
-  "previousRelease": "2.0.14",
+  "previousRelease": "2.0.17",
   "showReleaseNotes": true,
   "showNewVersionNotification": false,
   "latexBoilerplate": "\\color{blue}",

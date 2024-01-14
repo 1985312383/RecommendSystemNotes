@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb116b9daf03b711",
+        "id": "a00a0ecdc9987f06",
         "type": "tabs",
         "children": [
           {
-            "id": "bba45b45e3007057",
+            "id": "5bf981dbabc5f7e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "模型篇/GBDT+LR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "模型篇/GBDT+LR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "模型篇/GBDT+LR.md"
               }
             }
           }
@@ -146,15 +146,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bba45b45e3007057",
+  "active": "5bf981dbabc5f7e9",
   "lastOpenFiles": [
-    "指标篇/覆盖率.md",
-    "模型篇/GBDT+LR.md",
-    "模型篇/双塔模型.md",
-    "README.md",
-    "模型篇/协同过滤.md",
-    "LICENSE",
     "模型篇/论文/cikm2013_DSSM_fullversion.pdf",
+    "模型篇/论文/1606.07792.pdf",
+    "模型篇/GBDT+LR.md",
+    "模型篇/协同过滤.md",
+    "模型篇/assets/SVD图像压缩.png",
+    "Sketch/Excalidraw/Drawing .excalidraw.md",
+    "Sketch/Excalidraw/Drawing .excalidraw.png",
+    "模型篇/assets/梯度回归示意.png",
+    "模型篇/双塔模型.md",
+    "Sketch/Excalidraw/Muyao-Softbrush-2.ttf",
+    "Sketch/Excalidraw",
+    "Sketch",
+    "模型篇/Drawing .excalidraw.md",
+    "sketch/Excalidraw/Drawing .excalidraw.md",
+    "sketch/Excalidraw",
+    "sketch",
+    "README.md",
+    "模型篇/assets/双塔模型.png~RF42fd89.TMP",
+    "指标篇/覆盖率.md",
+    "LICENSE",
     "模型篇/论文/未确认 339510.crdownload",
     "模型篇/论文",
     "模型篇/assets/双塔模型.png",
@@ -167,7 +180,6 @@
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/在线优化算法FTRL的原理与实现.md",
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/📔Index By 关键技术.md",
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/一文梳理Approximate Softmax-从公式到代码.md",
-    "个人推荐算法笔记/指标篇",
     "石塔西的搜广推笔记（论文阅读合集）/附件/模板/bold color text.md",
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/📓Index By 链路环节.md",
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/Deep Interest Network for Click-Through Rate Prediction.md",
@@ -177,24 +189,12 @@
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/AutoFIS-Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction.md",
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/屠龙少年与龙-漫谈深度学习驱动的广告推荐技术发展周期.md",
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/快手视频冷启动优化介绍.md",
-    "obsidian-note",
     "个人推荐笔记/模型篇/未命名.canvas",
     "个人推荐算法笔记/模型篇/assets/GBDT+LR.png",
-    "Pasted image 20240105233331.png.md",
     "个人推荐笔记/模型篇/assets/Pasted image 20240105232245.png",
     "个人推荐笔记/模型篇/assets/Pasted image 20240105233331.png",
     "Pasted image 20240105230746.png",
     "个人推荐笔记/模型篇/assets/Pasted image 20240105233320.png",
-    "个人推荐笔记/模型篇/assets/Pasted image 20240105233316.png",
-    "个人推荐算法笔记/模型篇/assets",
-    "Reco/多场景推荐.md",
-    "个人推荐算法笔记/模型篇",
-    "未命名",
-    "未命名.md",
-    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/Personalized Transfer of User Preferences for Cross-domain Recommendation.md",
-    "Reco",
-    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/assets/Pasted Image 20230516200804_279.png",
-    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/assets/Pasted Image 20230516200421_922.png",
     "未命名.canvas"
   ]
 }
