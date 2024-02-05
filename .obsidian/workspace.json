@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a00a0ecdc9987f06",
+        "id": "901560a12dcfb3fb",
         "type": "tabs",
         "children": [
           {
-            "id": "5bf981dbabc5f7e9",
+            "id": "7b6835b5d08bd74b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5bf981dbabc5f7e9",
+  "active": "3e8789eac7c23d1f",
   "lastOpenFiles": [
-    "模型篇/论文/cikm2013_DSSM_fullversion.pdf",
+    "论文/1606.07792.pdf.md",
+    "论文/16.md",
+    "论文",
+    "模型篇/双塔模型.md",
+    "模型篇/协同过滤.md",
     "模型篇/论文/1606.07792.pdf",
     "模型篇/GBDT+LR.md",
-    "模型篇/协同过滤.md",
+    "模型篇/论文/cikm2013_DSSM_fullversion.pdf",
     "模型篇/assets/SVD图像压缩.png",
     "Sketch/Excalidraw/Drawing .excalidraw.md",
     "Sketch/Excalidraw/Drawing .excalidraw.png",
     "模型篇/assets/梯度回归示意.png",
-    "模型篇/双塔模型.md",
     "Sketch/Excalidraw/Muyao-Softbrush-2.ttf",
     "Sketch/Excalidraw",
     "Sketch",
@@ -168,8 +171,6 @@
     "模型篇/assets/双塔模型.png~RF42fd89.TMP",
     "指标篇/覆盖率.md",
     "LICENSE",
-    "模型篇/论文/未确认 339510.crdownload",
-    "模型篇/论文",
     "模型篇/assets/双塔模型.png",
     "个人推荐算法笔记/模型篇/GBDT+LR.md",
     "个人推荐算法笔记/指标篇/覆盖率.md",
@@ -187,8 +188,6 @@
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/冷启动推荐模型DropoutNet深度解析与改进.md",
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/Softmax负采样精讲.md",
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/AutoFIS-Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction.md",
-    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/屠龙少年与龙-漫谈深度学习驱动的广告推荐技术发展周期.md",
-    "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/读书笔记/快手视频冷启动优化介绍.md",
     "个人推荐笔记/模型篇/未命名.canvas",
     "个人推荐算法笔记/模型篇/assets/GBDT+LR.png",
     "个人推荐笔记/模型篇/assets/Pasted image 20240105232245.png",
