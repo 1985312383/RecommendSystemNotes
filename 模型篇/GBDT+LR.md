@@ -46,7 +46,6 @@ $$g(z)=\frac{1}{1+e^{-z}}$$
 通过逻辑回归，给予不同落下的子节点特征进行加权，然后通过sigmod函数，完成对预测目标的二分类，从而实现提升CTR。
 
 # 参考
-1. [论文](论文/1606.07792.pdf)
+1. [论文](paper/1606.07792.pdf)
 2. [GBDT算法原理以及实例理解_gbdt算法实例 csdn-CSDN博客](https://blog.csdn.net/zpalyq110/article/details/79527653)
 3. [基于奇异值分解（SVD）的图片压缩实践_为什么经过奇异值分解后的图片是黑色的-CSDN博客](https://blog.csdn.net/qq_21201267/article/details/105694867)
-4. 

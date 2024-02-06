@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "901560a12dcfb3fb",
+        "id": "77cfd92e7fa0c996",
         "type": "tabs",
         "children": [
           {
-            "id": "7b6835b5d08bd74b",
+            "id": "90e9c5846bb82891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "模型篇/双塔模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37837d00c4b4672c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模型篇/GBDT+LR.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,19 +158,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7b6835b5d08bd74b",
+  "active": "90e9c5846bb82891",
   "lastOpenFiles": [
     "模型篇/GBDT+LR.md",
+    "模型篇/协同过滤.md",
     "模型篇/双塔模型.md",
+    "Sketch/Excalidraw/Drawing .excalidraw.md",
+    "模型篇/paper/cikm2013_DSSM_fullversion.pdf",
     "README.md",
     "论文/1606.07792.pdf.md",
     "论文/16.md",
     "论文",
-    "模型篇/协同过滤.md",
-    "模型篇/论文/1606.07792.pdf",
-    "模型篇/论文/cikm2013_DSSM_fullversion.pdf",
+    "模型篇/paper/1606.07792.pdf",
     "模型篇/assets/SVD图像压缩.png",
-    "Sketch/Excalidraw/Drawing .excalidraw.md",
     "Sketch/Excalidraw/Drawing .excalidraw.png",
     "模型篇/assets/梯度回归示意.png",
     "Sketch/Excalidraw/Muyao-Softbrush-2.ttf",
