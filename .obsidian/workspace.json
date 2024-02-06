@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模型篇/GBDT+LR.md",
+                "file": "模型篇/双塔模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模型篇/GBDT+LR.md",
+                "file": "模型篇/双塔模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模型篇/GBDT+LR.md"
+                "file": "模型篇/双塔模型.md"
               }
             }
           }
@@ -146,15 +146,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3e8789eac7c23d1f",
+  "active": "7b6835b5d08bd74b",
   "lastOpenFiles": [
+    "模型篇/GBDT+LR.md",
+    "模型篇/双塔模型.md",
+    "README.md",
     "论文/1606.07792.pdf.md",
     "论文/16.md",
     "论文",
-    "模型篇/双塔模型.md",
     "模型篇/协同过滤.md",
     "模型篇/论文/1606.07792.pdf",
-    "模型篇/GBDT+LR.md",
     "模型篇/论文/cikm2013_DSSM_fullversion.pdf",
     "模型篇/assets/SVD图像压缩.png",
     "Sketch/Excalidraw/Drawing .excalidraw.md",
@@ -167,7 +168,6 @@
     "sketch/Excalidraw/Drawing .excalidraw.md",
     "sketch/Excalidraw",
     "sketch",
-    "README.md",
     "模型篇/assets/双塔模型.png~RF42fd89.TMP",
     "指标篇/覆盖率.md",
     "LICENSE",
