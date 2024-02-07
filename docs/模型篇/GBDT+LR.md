@@ -1,4 +1,4 @@
-# 基本思想
+ # 基本思想
 
 GBDT (Gradient Boost Decision Tree)基于集成学习中的boosting思想，每次迭代都通过生成一颗回归树来拟合残差。以此减少误差。逻辑回归 (Logistic Regression)性能很高，但其效果依赖于特征工程。因此Facebook在2004年提出，通过GBDT自动发现并构造特征，LR对特征加权来提升广告点击率 (CTR)效果。
 

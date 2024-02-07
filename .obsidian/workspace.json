@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模型篇/双塔模型.md",
+                "file": "docs/模型篇/双塔模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模型篇/GBDT+LR.md",
+                "file": "docs/模型篇/GBDT+LR.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模型篇/双塔模型.md",
+                "file": "docs/模型篇/双塔模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模型篇/双塔模型.md"
+                "file": "docs/模型篇/双塔模型.md"
               }
             }
           }
@@ -160,30 +160,30 @@
   },
   "active": "90e9c5846bb82891",
   "lastOpenFiles": [
-    "模型篇/GBDT+LR.md",
-    "模型篇/协同过滤.md",
-    "模型篇/双塔模型.md",
-    "Sketch/Excalidraw/Drawing .excalidraw.md",
-    "模型篇/paper/cikm2013_DSSM_fullversion.pdf",
     "README.md",
+    "docs/模型篇/GBDT+LR.md",
+    "docs",
+    "docs/模型篇/协同过滤.md",
+    "docs/模型篇/双塔模型.md",
+    "docs/Sketch/Excalidraw/Drawing .excalidraw.md",
+    "docs/模型篇/paper/cikm2013_DSSM_fullversion.pdf",
     "论文/1606.07792.pdf.md",
     "论文/16.md",
     "论文",
-    "模型篇/paper/1606.07792.pdf",
-    "模型篇/assets/SVD图像压缩.png",
+    "docs/模型篇/paper/1606.07792.pdf",
+    "docs/模型篇/assets/SVD图像压缩.png",
     "Sketch/Excalidraw/Drawing .excalidraw.png",
-    "模型篇/assets/梯度回归示意.png",
-    "Sketch/Excalidraw/Muyao-Softbrush-2.ttf",
-    "Sketch/Excalidraw",
-    "Sketch",
+    "docs/模型篇/assets/梯度回归示意.png",
+    "docs/Sketch/Excalidraw/Muyao-Softbrush-2.ttf",
+    "docs/Sketch/Excalidraw",
+    "docs/Sketch",
     "模型篇/Drawing .excalidraw.md",
     "sketch/Excalidraw/Drawing .excalidraw.md",
     "sketch/Excalidraw",
     "sketch",
     "模型篇/assets/双塔模型.png~RF42fd89.TMP",
-    "指标篇/覆盖率.md",
-    "LICENSE",
-    "模型篇/assets/双塔模型.png",
+    "docs/指标篇/覆盖率.md",
+    "docs/模型篇/assets/双塔模型.png",
     "个人推荐算法笔记/模型篇/GBDT+LR.md",
     "个人推荐算法笔记/指标篇/覆盖率.md",
     "石塔西的搜广推笔记（论文阅读合集）/推荐+广告+搜索/assets/image-20211116205909-kuyx707.png",
