@@ -1,0 +1,22 @@
+{
+  "name": "recommendsystemnotes",
+  "version": "1.0.0",
+  "description": "这是关于推荐系统方向的笔记。如果你有obsidian，那么可以把该项目`git clone`下来，使用obsidian打开阅读。其中会有部分的内嵌和关系图谱会在软件中体现，得到更好的阅读体验。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.7",
+    "@vuepress/plugin-catalog": "^2.0.0-rc.12",
+    "@vuepress/theme-default": "^2.0.0-rc.12",
+    "vuepress": "^2.0.0-rc.7"
+  }
+}
